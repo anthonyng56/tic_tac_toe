@@ -1,0 +1,34 @@
+td {
+	width: 100px;
+	height: 100px;
+	border: 2px solid black;
+	border-radius: 10px;
+	text-align: center;
+	font-size: 70px;
+	font-family: 'Do Hyeon', sans-serif;
+}
+table {
+	margin: 0 auto;
+}
+h1 {
+	text-align: center;
+	font-family: 'Do Hyeon', sans-serif;
+	font-size: 100px;
+	margin-top: 50px;
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+h2 {
+	text-align: center;
+	margin-top: 0;
+	padding-top: 0;
+	font-family: 'Do Hyeon', sans-serif;
+}
+.all {
+	border: 2px solid black;
+	height: 600px;
+	width: 50%;
+	margin-right: 25%;
+	margin-left: 25%;
+	margin-top: 50px;
+}
